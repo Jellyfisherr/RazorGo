@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Riley\\source\\repos\\RazorGo\\RazorGo\\RazorGo.csproj": {}
+    "C:\\Users\\Riley\\Source\\Repos\\RazorGo\\RazorGo\\RazorGo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Riley\\source\\repos\\RazorGo\\RazorGo\\RazorGo.csproj": {
+    "C:\\Users\\Riley\\Source\\Repos\\RazorGo\\RazorGo\\RazorGo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Riley\\source\\repos\\RazorGo\\RazorGo\\RazorGo.csproj",
+        "projectUniqueName": "C:\\Users\\Riley\\Source\\Repos\\RazorGo\\RazorGo\\RazorGo.csproj",
         "projectName": "RazorGo",
-        "projectPath": "C:\\Users\\Riley\\source\\repos\\RazorGo\\RazorGo\\RazorGo.csproj",
+        "projectPath": "C:\\Users\\Riley\\Source\\Repos\\RazorGo\\RazorGo\\RazorGo.csproj",
         "packagesPath": "C:\\Users\\Riley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Riley\\source\\repos\\RazorGo\\RazorGo\\obj\\",
+        "outputPath": "C:\\Users\\Riley\\Source\\Repos\\RazorGo\\RazorGo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Riley\\AppData\\Roaming\\NuGet\\NuGet.Config",

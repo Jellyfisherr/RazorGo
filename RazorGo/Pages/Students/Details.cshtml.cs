@@ -24,7 +24,7 @@ namespace RazorGo.Pages.Students
 
         public async Task<IActionResult> OnGetAsync(int? id)
         {
-            if (id == null || _context.Students == null)
+            if (id == null ) //|| _context.Students == null)
             {
                 return NotFound();
             }
